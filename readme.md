@@ -1,6 +1,6 @@
 # GBAD-preparations
 
-This repository contains tools and scripts for preparing and preprocessing audio data for the Gender Bias in Audio Deepfake (GBAD) dataset. Each script serves a specific purpose, ranging from downloading audio to extracting numerical and visual features. Below is a detailed description of each file and its functionality.
+This repository contains tools and scripts for preparing and preprocessing audio data for the making of Gender Bias in Audio Deepfake (GBAD) dataset. Each script serves a specific purpose, ranging from downloading audio to extracting numerical and visual features. Below is a detailed description of each file and its functionality.
 
 ---
 
